@@ -1,0 +1,28 @@
+*
+{
+    margin: 20px;
+}
+
+#new-quote, #tweet-quote
+{
+    margin: 0 auto;
+    display: block;
+}
+
+#quote-box
+{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#text
+{
+    font-size: larger;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
